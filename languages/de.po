@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: enrichmg\n"
+"POT-Creation-Date: 2018-09-07 18:16-0700\n"
+"PO-Revision-Date: 2018-09-07 18:25-0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppla! Die Seite kann nicht gefunden werden."
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"404 - Inhalt nicht gefunden. Bitte benutzen Sie die Suche oder einen Link."
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Die meist genutzten Kategorien"
+
+#: 404.php:46
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuch in den monatlichen Archiven nachzusehen. %1$s"
+
+#: archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr "Tag(e): %s"
+
+#: archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Seitenrand"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Zitate"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:63 sidebar-nosidebar.php:18 sidebar.php:18
+msgid "Archives"
+msgstr "Archive"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu „%2$s”"
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "& larr; ältere Kommentare"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare & rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschlossen."
+
+#: content-page.php:18 content-single.php:26 content.php:42 image.php:60
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-page.php:23 content-single.php:67 content.php:76 image.php:34
+#: image.php:79 inc/template-tags.php:71 inc/template-tags.php:90
+msgid "Edit"
+msgstr "bearbeiten"
+
+#: content-single.php:35 content-single.php:38 content.php:53 content.php:63
+msgid ", "
+msgstr ","
+
+#: content-single.php:43
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dieser Eintrag wurde als %2$s. Lesezeichen markiert <a href=“%3$s” "
+"title=“Permalink to %4$s” rel=“bookmark”>permalink</a>."
+
+#: content-single.php:45
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Speicher dir den <a href=“%3$s” title=“Permalink to %4$s” "
+"rel=“bookmark”>Permalink</a> als Lesezeichen."
+
+#: content-single.php:51
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dieser Eintrag wurde geschrieben in %1$s und markiert %2$s . Speicher den  "
+"<a href=“%3$s” title=“Permalink to %4$s” rel=“bookmark”> Permalink</a>als "
+"Lesezeichen ."
+
+#: content-single.php:53
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dieser Beitrag wurde in %1$s veröffentlich. Fügen Sie den Link zu Ihren "
+"Lesezeichen hinzu <a href=“%3$s” rel=“bookmark”>Link zum Beitrag</a>."
+
+#: content.php:25
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: content.php:25
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: content.php:25
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: content.php:57
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Veröffentlicht in %1$s"
+
+#: content.php:67
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:134
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: functions.php:136
+msgid "Re-Attach"
+msgstr "Wieder hinzufügen"
+
+#: functions.php:141
+msgid "(Unattached)"
+msgstr "(kein Anhang)"
+
+#: functions.php:142
+msgid "Attach"
+msgstr "Anhänge"
+
+#: header.php:40
+msgid " Menu"
+msgstr "Menü"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Veröffentlicht <span class=“entry-date”><time class=“entry-date” "
+"datetime=“%1$s”>%2$s</time></span> als <a href=“%3$s” title=“Link to full-"
+"size image”>%4$s &times; %5$s</a> in <a href=“%6$s” title=“Return to %7$s” "
+"rel=“gallery”>%8$s</a>"
+
+#: image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=“meta-nav”>&larr;</span> Bisherige"
+
+#: image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiter <span class=“meta-nav”>&rarr;</span>"
+
+#: image.php:70
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\\”comment-link\\” href=\\”#respond\\” title=\\”Post a comment"
+"\\”>Kommentieren Sie</a> oder hinterlassen Sie einen Trackback: <a class="
+"\\”trackback-link\\” href=\\”%s\\” title=\\”Trackback URL für Ihren Kommentar"
+"\\“ rel=\\”trackback\\”>Trackback URL</a>."
+
+#: image.php:72
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Kommentare sind geschlossen, aber Sie können ein Trackback hinterlassen: <a "
+"class=“trackback-link” href=“%s” title=“Trackback URL für Deinen Beitrag” "
+"rel=“trackback”>Trackback URL</a>."
+
+#: image.php:74
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks sind geschlossen, aber Sie können <a class=“comment-link” "
+"href=“#respond” title=“Post a comment”>einen Kommentar hinterlassen</a>."
+
+#: image.php:76
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Kommentare und Trackbacks geschlossen."
+
+#: inc/customizer.php:22
+msgid "Basic theme Options"
+msgstr "Basiseinstellungen"
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr "Designoptionen"
+
+#: inc/customizer.php:30
+msgid " Article Formatting Options"
+msgstr "Artikel Formatierungsoptionen"
+
+#: inc/customizer.php:32
+msgid "Article Options"
+msgstr "Optionen des Artikels"
+
+#: inc/customizer.php:50
+msgid "Article Header Color"
+msgstr "Artikelkopffarbe"
+
+#: inc/customizer.php:70
+msgid "Article Text Color"
+msgstr "Artikel Textfarbe"
+
+#: inc/customizer.php:90
+msgid "Article Link Color"
+msgstr "Artikel Link Farbe"
+
+#: inc/customizer.php:110
+msgid "Article Background Color"
+msgstr "Artikel Hintergrundfarbe"
+
+#: inc/customizer.php:120
+msgid " Aside Formatting Options"
+msgstr "Neben Formatierungsoptionen"
+
+#: inc/customizer.php:122
+msgid "Aside Options"
+msgstr "Beiseite Optionen"
+
+#: inc/customizer.php:140
+msgid "Aside Header Color"
+msgstr "Neben Header-Farbe"
+
+#: inc/customizer.php:160
+msgid "Aside Text Color"
+msgstr "Beiseite Textfarbe"
+
+#: inc/customizer.php:180
+msgid "Aside Link Color"
+msgstr "Neben Link Farbe"
+
+#: inc/customizer.php:199
+msgid "Aside Background Color"
+msgstr "Neben Hintergrundfarbe"
+
+#: inc/extras.php:77
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=“meta-nav”>&larr;</span> Ältere Beiträge"
+
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=“meta-nav”>&rarr;</span>"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:81
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=“says”>sagt:</span>"
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Beitrag wartet auf die Moderation."
+
+#: inc/template-tags.php:186
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=“posted-on”>Veröffentlicht am %1$s</span> <span "
+"class=“byline”>von %2$s</span>"
+
+#: inc/template-tags.php:194
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Keine Ergebnisse"
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bist Du bereit um Deinen ersten Post zu veröffentlichen? <a href=“%1$s”>Hier "
+"geht’s los</a>."
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid. Ihre Sucher ergab keinen Treffer, Bitte versuchen Sie es "
+"mit einem anderen Begriff."
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Keine Ergebnisse gefunden"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#: sidebar-nosidebar.php:25 sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: site-info.php:12
+msgid "enrichmg theme created by "
+msgstr "enrichmg theme created by "
+
+#: site-info.php:13
+msgid "https://daviseastconsulting.com"
+msgstr "https://daviseastconsulting.com"
+
+#: site-info.php:14
+#, php-format
+msgid " %s"
+msgstr "%s"
+
+#. Theme Name of the plugin/theme
+msgid "enrichmg"
+msgstr "enrichmg"
+
+#. Description of the plugin/theme
+msgid ""
+"Minimal magazine format. Custom static frontpage and landing page sandbox "
+"layouts. HTML5/CSS3 Responsive Design. Theme option customizers allow easy "
+"CSS changes to backgrounds and text."
+msgstr ""
+"Minimales Magazinformat. Benutzerdefinierte statische Frontpage- und "
+"Zielseiten-Sandbox-Layouts HTML5 / CSS3 Responsive Design. Theme-Option-"
+"Customizer ermöglichen einfache CSS-Änderungen an Hintergrund und Text."
+
+#. Author of the plugin/theme
+msgid "Terry East"
+msgstr "Terry East"
+
+#. Author URI of the plugin/theme
+msgid "https://daviseastconsulting/aboutus"
+msgstr "https://daviseastconsulting/aboutus"
